@@ -1,0 +1,26 @@
+#nameid{
+    height: 20px;
+    width:100px;
+    border:1px solid rgb(34, 17, 17);
+    margin-left:350px ;
+    width: 40%;
+    background-color: rgb(152, 149, 149);
+    margin-block:0px;
+    
+}
+body{
+    background-image: url(/images.jpg);
+    background-size: cover;
+}
+#cot{
+    margin-left: 350px;
+}
+#contactform{
+    background-color: black;
+}
+#submit{
+    background-color: blue;
+    width: 60px;
+    height: 30px;
+    margin-left: 565px;
+}

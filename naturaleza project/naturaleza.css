@@ -1,0 +1,25 @@
+body{
+    background-image: url(/images\ \(2\).jpg);
+    background-size: cover;
+}
+#yoo{
+    background-color: aqua;
+    width: 200px;
+    height: 50px;
+    color: rgb(0, 0, 0);
+}
+#boton{
+    margin-left: 400px;
+}
+#botoon{
+    margin-left: 450px;
+    background-color: rgb(62, 62, 243);
+}
+#email{
+    background-color: rgb(40, 255, 2);
+    border-radius: 30%;
+    border-color: black;
+}
+#mu{
+    color: rgb(245, 16, 16);
+}
